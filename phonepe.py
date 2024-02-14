@@ -1156,9 +1156,6 @@ if select == "Home":
         st.write("****Pay Directly From Any Bank To Any Bank A/C****")
         st.write("****Instantly & Free****")
 
-    with col6:
-        st.video("C:\\Users\\vignesh\\Desktop\\CAPSTONE Projects\\phone pe\\PhonePe Motion Graphics(720P_HD)_2.mp4")
-
 
 if select == "Data Exploration":
     tab1, tab2, tab3= st.tabs(["Aggregated Analysis", "Map Analysis", "Top Analysis"])
